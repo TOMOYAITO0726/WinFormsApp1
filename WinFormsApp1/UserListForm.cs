@@ -38,6 +38,7 @@ namespace WinFormsApp1
             UserDataGrid.Columns[3].HeaderText = "プラン";
             UserDataGrid.Columns[4].HeaderText = "有効/無効";
 
+
         }
     }
 }
